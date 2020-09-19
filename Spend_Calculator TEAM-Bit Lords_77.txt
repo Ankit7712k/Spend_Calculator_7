@@ -28,7 +28,7 @@ window.geometry("800x453")
 window.resizable(0,0)
 window.title("Spend Calculator")
 window.config(bg="lightyellow")
-window.iconbitmap(r'C:\New folder\cost_Jjv_icon.ico')
+
 
 
 
